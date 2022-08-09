@@ -1,0 +1,19 @@
+.nameMovie {
+    width: 500px;
+    height: 25px;
+    margin: 0 15px 0 0;
+}
+.searchMovie {
+    width: 100px;
+    height: 31px;
+    border: solid 2px;
+    cursor: pointer;
+}
+.searchMovie:hover {
+    background-color: aqua;
+
+}
+.yearMovi {
+    height: 25px;
+    margin: 0 15px 0 0;
+}
